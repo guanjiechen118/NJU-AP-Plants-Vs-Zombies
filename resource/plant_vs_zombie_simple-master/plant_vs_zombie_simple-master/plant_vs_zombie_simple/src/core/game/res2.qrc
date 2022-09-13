@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bg0.jpg</file>
+        <file>bg1.jpg</file>
+        <file>bg2.jpg</file>
+        <file>shovel.png</file>
+    </qresource>
+</RCC>
